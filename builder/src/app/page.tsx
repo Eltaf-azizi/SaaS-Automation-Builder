@@ -1,6 +1,7 @@
 import { ContainerScroll } from "@/components/global/container-scroll-animation";
 import Navbar from "@/components/global/navbar";
 import { Button } from '@/components/ui/button'
+import { clients } from "@/lib/constant";
 import { div } from "framer-motion/client";
 import Image from "next/image";
 
